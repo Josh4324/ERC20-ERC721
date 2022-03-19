@@ -6,7 +6,7 @@ Name of Token - JToken <br>
 Symbol - JT<br>
 totalSupply - 1,000,000<br>
 
-address - 0xcdc534bFBC81F6882535d9Ba13F49BD061ef132e <br>
+contract address - 0xcdc534bFBC81F6882535d9Ba13F49BD061ef132e <br>
 Deployed contract address link on etherscan - https://rinkeby.etherscan.io/address/0xcdc534bfbc81f6882535d9ba13f49bd061ef132e<br>
 
 function to buy JToken - buyToken <br>
@@ -15,7 +15,7 @@ function to buy JToken - buyToken <br>
 
 Name of Collection - JOSHNFT <br>
 
-address - 0xd6C0cF811267AcBf4BD8DB1137fF7C5DafF7cBfD <br>
+contract address - 0xd6C0cF811267AcBf4BD8DB1137fF7C5DafF7cBfD <br>
 Deployed contract address link on etherscan - https://rinkeby.etherscan.io/address/0xd6C0cF811267AcBf4BD8DB1137fF7C5DafF7cBfD <br>
 
 NFT1 metadata <br>

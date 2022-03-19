@@ -26,13 +26,13 @@ description - This is one of JoshNFT! <br>
 
 NFT2 metadata <br>
 
-ame - Fake APE 2 <br>
+name - Fake APE 2 <br>
 image - https://ipfs.io/ipfs/bafybeidsr6h3k4odc43tjaz33pvujm6uh7lxhd6zlnnwlm4pwbwboedtuy/ntf2.jpeg <br>
 description - This is one of JoshNFT! <br>
 
 NFT3 metadata <br>
 
-ame - Fake APE 3 <br>
+name - Fake APE 3 <br>
 image - https://ipfs.io/ipfs/bafybeigjj6fk2bafym56u6d2ko56ktio7tzggyllm6psr5zixy5x72d2be/nft3.jpeg <br>
 description - This is one of JoshNFT! <br>
 
